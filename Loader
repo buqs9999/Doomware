@@ -1,0 +1,4 @@
+if game.PlaceId == 2788229376 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/buqs9999/Doomware/main/Aimlock"))()
+elseif game.PlaceId == 6407649031 then
+loadstring(game:Httpget("https://raw.githubusercontent.com/buqs9999/noscope-arcade-script/main/scope"))()
